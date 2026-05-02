@@ -31,7 +31,7 @@ python container_manager.py
 manager = ContainerManager()
 manager.deploy_container("nginx", replicas=3)
 manager.monitor_health()
-```
+``````
 
 ### Output
 - Container status dashboard
