@@ -39,4 +39,4 @@ manager.monitor_health()
 - Network traffic charts
 - Auto-scaling history
 
----
+------
