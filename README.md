@@ -23,7 +23,7 @@ Automated Docker container management system with health checks, auto-scaling, r
 ```bash
 pip install docker flask matplotlib pandas
 python container_manager.py
-````````
+```````````
 
 ### Usage
 ```python
